@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/my-project/', // <--- назва репозиторію
+  base: '/01-ts-basics/', // <--- назва репозиторію
 });
